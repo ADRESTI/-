@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#7F7F7F;}
+</style>
+<g>
+	<g>
+		<path class="st0" d="M256,31C115.39,31,0,145.39,0,286v120c0,24.81,20.19,45,45,45h15V301H45c-5.28,0-10.28,1.08-15,2.76V286
+			C30,161.93,131.93,61,256,61s226,100.93,226,225v17.76c-4.71-1.68-9.72-2.76-15-2.76h-15v150h15c24.81,0,45-20.19,45-45V286
+			C512,145.39,396.61,31,256,31z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<path class="st0" d="M135,271h-15c-16.57,0-30,13.43-30,30v150c0,16.57,13.43,30,30,30h15c8.28,0,15-6.72,15-15V286
+			C150,277.72,143.28,271,135,271z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<path class="st0" d="M392,271h-15c-8.28,0-15,6.72-15,15v180c0,8.28,6.72,15,15,15h15c16.57,0,30-13.43,30-30V301
+			C422,284.43,408.57,271,392,271z"/>
+	</g>
+</g>
+</svg>
